@@ -44,9 +44,9 @@ ORDER BY
 
 /*
 Out of the 10 highest paying roles for software engineers, the most common skills required are:
-    - JavaScript & Python are required in half of the top jobs (5/10).
-    - React, TypeScript, AWS appear in 40% of jobs (4/10).
-    - MongoDB shows up in 30% of jobs (3/10).
+    - JavaScript & Python appear in half of the top jobs (5/10).
+    - React, TypeScript, AWS appear in 40% of jobs (4/10)
+    - MongoDB appear in 30% (3/10)
 Most other skills are niche, only covering 1–2 jobs.
 
 In other words, a candidate with Python, JavaScript, React, TypeScript, AWS and MongoDB
