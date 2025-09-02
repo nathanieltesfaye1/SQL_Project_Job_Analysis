@@ -2,7 +2,8 @@
 What are the highest paying software engineer jobs?
 - Identify the top 10 highest paying software engineer roles that are available remotely.
 - Focuses on job postings with specified salaries (remove nulls).
-- Why? So we can identify the highest paying opportunities for software engineers, hence offering insights into employment opportunities in the field.
+- Why? So we can identify the highest paying opportunities for software engineers, hence offering
+    insights into employment opportunities in the field.
 */
 
 SELECT
