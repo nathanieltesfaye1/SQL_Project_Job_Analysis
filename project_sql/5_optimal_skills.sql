@@ -25,3 +25,8 @@ ORDER BY
     demand_count DESC
 LIMIT
     25
+
+SELECT *
+FROM job_postings_fact
+ORDER BY job_posted_date DESC
+LIMIT 100
