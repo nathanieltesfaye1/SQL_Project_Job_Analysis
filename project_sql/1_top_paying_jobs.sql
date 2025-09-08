@@ -28,3 +28,16 @@ ORDER BY
     salary_year_avg DESC
 LIMIT
     10
+
+
+/*
+- Top salaries cluster between $180K and $225K. The highest-paying role is a
+    Senior Software Engineer at Datavant ($225K),while most other top postings sit around $185K–$205K.
+- Titles are mostly senior. They are also mainly specialised with nicher focuses (e.g. security, AI,
+    frontend, scalability, etc.). This suggests that specialisation adds salary leverage.
+- MongoDB seems to be a skill that's paid very well at the top of the industry, given it is a skill
+    desired in 2 of the top 10 highest paying roles. However, a larger sample size may be required to
+    say this definitively
+- Remote work is available at high pay, given that all of the top 10 postings are “Anywhere,”
+    which shows that remote engineers can still command pay comparable to on-site roles.
+*/
