@@ -203,15 +203,10 @@ ORDER BY
     demand_count DESC
 LIMIT
     25
-
-SELECT *
-FROM job_postings_fact
-ORDER BY job_posted_date DESC
-LIMIT 100
 ```
-
-## What I Learned
-
-## Conclusion
-
-## Closing Thoughts
+Here are the insights:
+- Go and Golang have the highest average salary ($136K - $143K), but their relatively low demand counts (64 and 17 respectively) suggest these are lucrative but niche opportunities.
+- There is a high ROI in web development skills: TypeScript ($133K, 28 postings), React ($131K, 39 postings), and Node.js ($137K, 22 postings) for example have good pay and many postings, making them practical high-value bets.
+- Data engineering is highly valued; skills like Airflow, Kafka, Pandas, BigQuery, Snowflake, and Hadoop appear frequently, which shows demand for engineers who can build and scale data infrastructure.
+- AWS has by far the highest demand count (123), which suggests again that cloud engineers are in demand. Even if salaries are slightly lower (120k average), the demand suggests potential for long-term employability.
+- Again, Python seems to be a universally safe bet with 204 postings and an average pay of about $119K pay, which may not top the salary charts but is a very versatile skill to learn across the industry as we discussed earlier.
